@@ -1,0 +1,10 @@
+C:\Users\alins\OneDrive\Desktop\Programe\Programe C#\Forms\Instagram Deluxe\bin\Debug\Instagram Deluxe.exe.config
+C:\Users\alins\OneDrive\Desktop\Programe\Programe C#\Forms\Instagram Deluxe\bin\Debug\Instagram Deluxe.exe
+C:\Users\alins\OneDrive\Desktop\Programe\Programe C#\Forms\Instagram Deluxe\bin\Debug\Instagram Deluxe.pdb
+C:\Users\alins\OneDrive\Desktop\Programe\Programe C#\Forms\Instagram Deluxe\obj\Debug\Instagram Deluxe.csproj.AssemblyReference.cache
+C:\Users\alins\OneDrive\Desktop\Programe\Programe C#\Forms\Instagram Deluxe\obj\Debug\Instagram_Deluxe.Properties.Resources.resources
+C:\Users\alins\OneDrive\Desktop\Programe\Programe C#\Forms\Instagram Deluxe\obj\Debug\Instagram Deluxe.csproj.GenerateResource.cache
+C:\Users\alins\OneDrive\Desktop\Programe\Programe C#\Forms\Instagram Deluxe\obj\Debug\Instagram Deluxe.csproj.CoreCompileInputs.cache
+C:\Users\alins\OneDrive\Desktop\Programe\Programe C#\Forms\Instagram Deluxe\obj\Debug\Instagram Deluxe.exe
+C:\Users\alins\OneDrive\Desktop\Programe\Programe C#\Forms\Instagram Deluxe\obj\Debug\Instagram Deluxe.pdb
+C:\Users\alins\OneDrive\Desktop\Programe\Programe C#\Forms\Instagram Deluxe\obj\Debug\Instagram_Deluxe.Instagram.resources
